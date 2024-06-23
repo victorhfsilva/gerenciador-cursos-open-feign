@@ -1,0 +1,12 @@
+[submodule "gerenciador-cursos-usuarios-ms"]
+	path = gerenciador-cursos-usuarios-ms
+	url = https://github.com/victorhfsilva/gerenciador-cursos-usuarios-ms.git
+[submodule "gerenciador-cursos-cursos-ms"]
+	path = gerenciador-cursos-cursos-ms
+	url = https://github.com/victorhfsilva/gerenciador-cursos-cursos-ms.git
+[submodule "gerenciador-cursos-eureka-server"]
+	path = gerenciador-cursos-eureka-server
+	url = https://github.com/victorhfsilva/gerenciador-cursos-eureka-server.git
+[submodule "gerenciador-cursos-api-gateway"]
+	path = gerenciador-cursos-api-gateway
+	url = https://github.com/victorhfsilva/gerenciador-cursos-api-gateway.git
